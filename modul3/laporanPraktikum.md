@@ -132,5 +132,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output/output-soal3.png)
+![Screenshot Output Unguided 3_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output-soal3.png)
 [Program ini digunakan untuk menentukan apakah sebuah titik berada di dalam satu atau dua lingkaran. Fungsi jarak menghitung jarak antara dua titik, sedangkan didalam mengecek apakah jarak titik ke pusat lingkaran kurang dari atau sama dengan radius. Di main, program membaca data dua lingkaran dan satu titik, lalu mengecek posisinya. Hasilnya ditampilkan apakah titik berada di dalam lingkaran 1, lingkaran 2, keduanya, atau di luar keduanya.]
