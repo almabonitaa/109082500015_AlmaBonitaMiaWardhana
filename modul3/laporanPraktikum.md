@@ -41,7 +41,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output/output-soal1.png)
+![Screenshot Output Unguided 3_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output-soal1.png)
 [Program ini menghitung permutasi dan kombinasi dari beberapa angka yang diinput. Fungsi factorial digunakan untuk menghitung faktorial (perkalian dari 1 sampai n). Lalu permutation menghitung banyak susunan (urutan berpengaruh), dan combination menghitung banyak pilihan (urutan tidak berpengaruh). Di main, program membaca 4 angka lalu menampilkan hasil permutasi dan kombinasi untuk dua pasangan angka tersebut.]
 
 ### 2. [Soal Latihan Modul 3]
