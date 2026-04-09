@@ -41,7 +41,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/modul3/blob/main/output-soal1.png)
+![Screenshot Output Unguided 3_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output/output-soal1.png)
 [Program ini menghitung permutasi dan kombinasi dari beberapa angka yang diinput. Fungsi factorial digunakan untuk menghitung faktorial (perkalian dari 1 sampai n). Lalu permutation menghitung banyak susunan (urutan berpengaruh), dan combination menghitung banyak pilihan (urutan tidak berpengaruh). Di main, program membaca 4 angka lalu menampilkan hasil permutasi dan kombinasi untuk dua pasangan angka tersebut.]
 
 ### 2. [Soal Latihan Modul 3]
@@ -82,7 +82,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_2](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/modul3/blob/main/output-soal2.png)
+![Screenshot Output Unguided 3_2](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output-soal2.png)
 [Program ini mendefinisikan tiga fungsi sederhana: f(x) = x², g(x) = x - 2, dan h(x) = x + 1. Di dalam main, program membaca tiga input lalu menghitung hasil dari kombinasi fungsi (fungsi di dalam fungsi). result1 menghitung f(g(h(a))), result2 menghitung g(h(f(b))), dan result3 menghitung h(f(g(c))). Terakhir, semua hasil ditampilkan ke layar.]
 
 ### 3. [Soal Latihan Modul 3]
@@ -132,5 +132,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/modul3/blob/main/output-soal3.png)
+![Screenshot Output Unguided 3_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul3/output/output-soal3.png)
 [Program ini digunakan untuk menentukan apakah sebuah titik berada di dalam satu atau dua lingkaran. Fungsi jarak menghitung jarak antara dua titik, sedangkan didalam mengecek apakah jarak titik ke pusat lingkaran kurang dari atau sama dengan radius. Di main, program membaca data dua lingkaran dan satu titik, lalu mengecek posisinya. Hasilnya ditampilkan apakah titik berada di dalam lingkaran 1, lingkaran 2, keduanya, atau di luar keduanya.]
