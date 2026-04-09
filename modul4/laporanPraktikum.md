@@ -40,7 +40,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 4_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul4/output/output-soal1.png)
+![Screenshot Output Unguided 4_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul4/output-soal1.png)
 [Program ini dibuat untuk menghitung dua hal dari angka yang dimasukkan pengguna. Pertama, program membaca empat angka yaitu a, b, c, dan d. Lalu program punya fungsi untuk menghitung faktorial dengan cara mengalikan angka dari 1 sampai angka tersebut. Setelah itu, ada dua fungsi lain yang menggunakan hasil faktorial tadi untuk mencari hasil dari pasangan a dengan c, dan b dengan d. Hasilnya kemudian ditampilkan dalam dua baris, baris pertama untuk a dan c, dan baris kedua untuk b dan d. Secara sederhana, program ini hanya mengambil input, mengolahnya dengan beberapa fungsi, lalu menampilkan hasilnya.]
 
 ### 2. [Soal Latihan Modul 4]
@@ -98,7 +98,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 4_2](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul4/output/output-soal2.png)
+![Screenshot Output Unguided 4_2](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul4/output-soal2.png)
 [Program ini digunakan untuk menentukan pemenang dari beberapa peserta berdasarkan jumlah soal yang berhasil diselesaikan dan total waktu yang dibutuhkan. Pertama, program membaca nama peserta dan 8 waktu pengerjaan soal, lalu menghitung berapa soal yang selesai (hanya yang waktunya kurang dari 301) dan menjumlahkan total waktunya melalui fungsi hitungSkor. Program akan terus membaca data sampai input “Selesai”. Selama proses itu, program membandingkan setiap peserta untuk mencari yang terbaik, yaitu yang menyelesaikan soal paling banyak, dan jika sama, yang total waktunya paling kecil. Di akhir, program menampilkan nama pemenang beserta jumlah soal yang diselesaikan dan total waktunya.]
 
 ### 3. [Soal Latihan Modul 4]
@@ -136,5 +136,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 4_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul4/output/output-soal3.png)
+![Screenshot Output Unguided 4_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul4/output-soal3.png)
 [Program ini digunakan untuk menampilkan deret angka berdasarkan suatu nilai awal yang dimasukkan pengguna. Setelah membaca angka n, program memanggil fungsi cetakDeret yang akan mencetak angka tersebut lalu terus mengubah nilainya mengikuti aturan: jika genap dibagi 2, dan jika ganjil dikali 3 lalu ditambah 1. Proses ini dilakukan berulang dalam perulangan sampai nilai n menjadi 1, dan setiap perubahan nilai langsung ditampilkan dalam satu baris. Jadi, program ini sederhana, hanya menerima input lalu menampilkan urutan angka sampai berhenti di 1.]
