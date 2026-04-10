@@ -1,0 +1,25 @@
+package main
+
+import "fmt"
+
+func pola(n int) {
+	if n == 0 {
+		return
+	}
+
+	fmt.Print(n, " ")
+
+	pola(n - 1)
+
+	if n != 1 {
+		fmt.Print(n, " ")
+	}
+}
+
+func main() {
+	var n int
+	fmt.Print("Masukkan nilai n: ")
+	fmt.Scan(&n)
+
+	pola(n)
+}
