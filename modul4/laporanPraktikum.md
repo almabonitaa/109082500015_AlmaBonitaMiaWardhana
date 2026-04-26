@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 4 - REVIEW ALGORITMA DAN PEMROGRAMAN 1 </h1>
+# <h1 align="center">Laporan Praktikum Modul 4 - PROSEDUR </h1>
 <p align="center">[Alma Bonita Mia Wardhana] - [109082500015]</p>
 
 ## Unguided 
