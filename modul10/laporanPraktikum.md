@@ -44,7 +44,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 9_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul9/output-soal1.png)
+![Screenshot Output Unguided 10_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul10/output-soal1.png)
 [Program di atas dibuat menggunakan bahasa Go untuk mencari nilai berat paling kecil dan paling besar dari sejumlah data yang dimasukkan pengguna. Pertama, program meminta jumlah data (n), lalu pengguna memasukkan data berat satu per satu ke dalam array berat. Setelah itu, fungsi hitungMinMax dipanggil untuk memeriksa seluruh isi array dan membandingkan setiap nilai agar diperoleh nilai minimum dan maksimum. Nilai terkecil disimpan pada variabel min, sedangkan nilai terbesar disimpan pada variabel max. Di akhir program, kedua nilai tersebut ditampilkan dengan format dua angka di belakang koma.]
 
 ### 2. [Soal Latihan Modul 10]
@@ -99,7 +99,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 9_2](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul9/output-soal2.png)
+![Screenshot Output Unguided 10_2](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul10/output-soal2.png)
 [Program di atas digunakan untuk mengelompokkan data berat ke dalam beberapa kelompok lalu menghitung total dan rata-rata setiap kelompok. Pertama, pengguna memasukkan jumlah data (x) dan jumlah anggota tiap kelompok (y), kemudian data berat disimpan ke dalam array berat. Program selanjutnya membagi data menjadi beberapa kelompok menggunakan perhitungan indeks, lalu menjumlahkan setiap kelompok ke array tot. Setelah semua data diproses, program menampilkan total berat tiap kelompok dengan format dua angka di belakang koma. Setelah itu, program juga menghitung rata-rata setiap kelompok dengan membagi total berat terhadap jumlah data pada kelompok tersebut, termasuk menangani kelompok terakhir jika jumlah datanya tidak penuh.]
 
 ### 3. [Soal Latihan Modul 10]
@@ -155,5 +155,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 9_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul9/output-soal3.png)
+![Screenshot Output Unguided 10_3](https://github.com/almabonitaa/109082500015_AlmaBonitaMiaWardhana/blob/main/modul10/output-soal3.png)
 [Program di atas dibuat untuk mengolah data berat badan balita menggunakan bahasa Go. Pengguna terlebih dahulu memasukkan jumlah data balita, kemudian memasukkan berat masing-masing balita satu per satu ke dalam array bb. Program memiliki fungsi hitungminmax untuk mencari berat badan paling kecil dan paling besar dengan cara membandingkan setiap data dalam array, lalu hasilnya disimpan pada variabel min dan max. Selain itu, terdapat fungsi rerata yang digunakan untuk menghitung rata-rata berat badan balita dengan menjumlahkan seluruh data kemudian membaginya dengan jumlah data. Setelah semua proses selesai, program menampilkan berat minimum, berat maksimum, dan rata-rata berat balita dalam satuan kilogram dengan format dua angka di belakang koma.]
